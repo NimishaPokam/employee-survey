@@ -20,7 +20,7 @@ WHERE es.Workload = 5
 GROUP BY ed.Gender
 ORDER BY HighWorkloadEmployees DESC;
 
--- Identifying the point at which overtime starts negatively affecting job satisfaction with workload ranges
+-- Identifying the point at which overtime starts negatively affecting job satisfaction with workload ranges.
 SELECT 
     CASE 
         WHEN es.WorkLoad BETWEEN 1 AND 2 THEN 'Low'
