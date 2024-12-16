@@ -18,4 +18,6 @@ After finalizing the schema design, I proceeded to create the tables in Oracle S
 
 With the database set up, I began writing and executing SQL queries to analyse the data. These queries focused on comparing key metrics, such as workload, employee satisfaction, and sleep patterns, across different departments and job levels. The goal was to identify patterns, correlations, and any noteworthy trends that could provide insights into the overall employee experience.
 
-To further enhance the analysis and present the results in a more understandable format, I used Tableau for data visualization. The visualizations provided a clear way to convey the insights derived from the SQL queries, making it easier to spot trends and patterns that might not have been as apparent in the raw data alone.
+## Insights Visualization
+To further enhance the analysis and present the results in a more understandable format, I used Tableau for data visualization. The visualizations provided a clear way to convey the insights derived from the SQL queries, making it easier to spot trends and patterns that might not have been as apparent in the raw data alone. [View the Tableau Dashboard](https://public.tableau.com/views/your-dashboard-link) :)
+
